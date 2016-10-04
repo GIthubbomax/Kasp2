@@ -1,0 +1,6 @@
+c:\users\бочков\documents\visual studio 2013\Projects\Kasp2\Kasp2\bin\Debug\Kasp2.exe.config
+c:\users\бочков\documents\visual studio 2013\Projects\Kasp2\Kasp2\bin\Debug\Kasp2.exe
+c:\users\бочков\documents\visual studio 2013\Projects\Kasp2\Kasp2\bin\Debug\Kasp2.pdb
+c:\users\бочков\documents\visual studio 2013\Projects\Kasp2\Kasp2\obj\Debug\Kasp2.csprojResolveAssemblyReference.cache
+c:\users\бочков\documents\visual studio 2013\Projects\Kasp2\Kasp2\obj\Debug\Kasp2.exe
+c:\users\бочков\documents\visual studio 2013\Projects\Kasp2\Kasp2\obj\Debug\Kasp2.pdb
